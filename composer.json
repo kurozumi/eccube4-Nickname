@@ -1,0 +1,9 @@
+{
+  "name": "ec-cube/Nickname",
+  "version": "1.0.0",
+  "description": "ニックネーム",
+  "type": "eccube-plugin",
+  "extra": {
+    "code": "Nickname"
+  }
+}
